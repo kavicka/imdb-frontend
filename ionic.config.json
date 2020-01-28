@@ -1,5 +1,7 @@
 {
   "name": "imdbish",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
